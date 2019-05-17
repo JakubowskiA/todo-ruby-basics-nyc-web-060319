@@ -13,13 +13,13 @@ end
 def greeting(x, y)
 
 end
-"Nice"
-def return_a_value
 
+def return_a_value
+"Nice"
 end
 
 def last_evaluated_value
-
+'expert'
 end
 
 def pizza_party
